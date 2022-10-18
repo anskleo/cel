@@ -1,0 +1,235 @@
+<frameset rows="20%,70%,10%"border=0>
+	<frame src="pag/gris.html">
+	<frameset cols="20%,80%">
+		<frame src="pag/verde.html">
+		<frame src="pag/azul.html" name="Keith">
+
+	</frameset>
+	<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Central</title>
+</head>
+<body bgcolor="#FAF8F8">
+	<center><table>
+		<tr>
+			<td><center><h1>HUAWEI</h1></center>
+				<p>Lo mejor en tecnología lo encuentras al alcance de tu mano en HUAWEI Store México. Compra tus productos y accesorios favoritos de tecnología. ¡Ingresa ya! Ofertas Disponibles. Localice Su Tienda. Soporte Disponible. Categorías: Smartphones, Tabletas, Audio.</p>
+				<p><center><img src="img\ce.jfif"></center></p>
+			</td>
+		</tr>
+		</table></center>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Central</title>
+</head>
+<body bgcolor="#FAF8F8">
+	<center><table>
+		<tr>
+			<td><center><h1>P40</h1></center>
+				<p>El tamaño del producto, el peso del producto y las especificaciones relacionadas son solo valores teóricos. Las mediciones reales entre productos individuales pueden variar. Todas las especificaciones están sujetas al producto real.</p>
+				<p><center><img src="img\40.jpg"></center></p>
+			</td>
+		</tr>
+		</table></center>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Central</title>
+</head>
+<body bgcolor="#FAF8F8">
+	<center><table>
+		<tr>
+			<td><center><h1>P30</h1></center>
+				<p>El tamaño y el peso del producto, y las especificaciones relacionadas son solo valores teóricos. Las medidas reales entre productos individuales pueden variar. Todas las especificaciones están sujetas al producto real.</p>
+				<p><center><img src="img\p30.jfif"></center></p>
+			</td>
+		</tr>
+		</table></center>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Central</title>
+</head>
+<body bgcolor="#FAF8F8">
+	<center><table>
+		<tr>
+			<td><p><center><img src="img\ce.jfif"></center></p>
+				<center><h1>HUAWEI</h1></center>
+				<p>Lo mejor en tecnología lo encuentras al alcance de tu mano en HUAWEI Store México. Compra tus productos y accesorios favoritos de tecnología. ¡Ingresa ya! Ofertas Disponibles. Localice Su Tienda. Soporte Disponible. Categorías: Smartphones, Tabletas, Audio.</p>
+				<p><center><img src="img\ce.jfif"></center></p>
+			</td>
+		</tr>
+		</table></center>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Central</title>
+</head>
+<body bgcolor="#FAF8F8">
+	<table>
+		<tr>
+			<td><strong>Gama</strong></td>
+			</tr>
+
+			<tr>
+			<td>Alta</td>
+			<td><img src="img\alta.webp" width="200"></td>
+			<td><ul>Huawei Mate 40 Pro.</ul>
+				<ul>Huawei P40 Pro.</ul>
+				<ul>Huawei P40.</ul>
+				<ul>Huawei P40 Lite.</ul>
+				<ul>Huawei Y9s.</ul>
+				<ul>Huawei P30 Lite.</ul>
+			<tr>
+			<td>Media</td>
+			<td><img src="img\media.jpg" width="200"></td>
+			<td><ul>Huawei Ascende Y540.</ul>
+				<ul>Enjoy 5.</ul>
+				<ul>Enjoy GR3 5s.</ul>
+				<ul>G7 Plus.</ul>
+				<ul>G8.</ul>
+				<ul>Honor 4A.</ul>
+			<tr>
+			<td>Alta</td>
+			<td><img src="img\baja.jpg" width="200"></td>
+			<td><ul>U8100.</ul>
+				<ul>U8110.</ul>
+				<ul>U8150 IDEOS.</ul>
+				<ul>U8500 IDEOS x2.</ul>
+				<ul>U8800 IDEOS x5.</ul>
+				<ul>U9000 IDEOS x6.</ul>			
+			</td>
+			</tr>
+
+
+
+
+		</table></center>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Central</title>
+</head>
+<body bgcolor="#FAF8F8">
+	<table>
+		<tr>
+			<td><strong>Mejores Tablets</strong></td>
+			</tr>
+
+			<tr>
+			<td>Mejores 3 <p>Uso infantil</p></td>
+			<td><img src="img\m10.jfif" width="200"></td>
+			<td><ul>Huawei MediaPad M6</ul>
+				<ul>Huawei MatePad T8</ul>
+				<ul>Huawei MediaPad T5</ul>
+			<tr>
+			<td>Mejores 2 <p>Rendimiento</p></td>
+			<td><img src="img\mp.jfif" width="200"></td>
+			<td><ul>Huawei MatePad 10.4</ul>
+				<ul>Huawei MatePad T10s</ul>
+			<tr>
+			<td>Mejores 2 <p>Uso estudiantil</p></td>
+			<td><img src="img\boo.png" width="200"></td>
+			<td><ul>Huawei Matebook</ul>
+				<ul>Huawei MateBook E</ul>			
+			</td>
+			</tr>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Central</title>
+</head>
+<body bgcolor="#FAF8F8">
+	<table>
+		<tr>
+			<td><strong></strong></td>
+			</tr>
+
+			<tr>
+			<td>Mejores 3 <p>Uso infantil</p></td>
+			<td><img src="img\m10.jfif" width="200"></td>
+			<td><ul>Huawei MediaPad M6</ul>
+				<ul>Huawei MatePad T8</ul>
+				<ul>Huawei MediaPad T5</ul>
+			<tr>
+			<td>Mejores 2 <p>Rendimiento</p></td>
+			<td><img src="img\mp.jfif" width="200"></td>
+			<td><ul>Huawei MatePad 10.4</ul>
+				<ul>Huawei MatePad T10s</ul>
+			<tr>
+			<td>Mejores 2 <p>Uso estudiantil</p></td>
+			<td><img src="img\boo.png" width="200"></td>
+			<td><ul>Huawei Matebook</ul>
+				<ul>Huawei MateBook E</ul>			
+			</td>
+			</tr>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Central</title>
+</head>
+<body bgcolor="">
+<center><table>
+		<tr>
+			<td><center><img src="img/ha.png" width="200"></center></center>
+			<td><center><h1>SA.DC</h1></center></center>
+			</td>
+		</tr>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Negro</title>
+</head>
+<body bgcolor="#000000">
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Izquierda</title>
+</head>
+<body bgcolor="A4E0FF">
+	<center>
+		<h2>Actividades</h2><P></center>
+			<ol>
+				<li><a href="Celular3.html" target="Keith">Inicio</a></li>
+				<li><a href="Celular2.html" target="Keith">P30</a></li>
+				<li><a href="Celular1.html" target="Keith">P40</a></li>
+				<li><a href="Celular4.html" target="Keith">Telefono</a></li>
+				<li><a href="Celular5.html" target="Keith">Tablets</a></li>
+				<li><a href="Celular6.html" target="Keith">Audio</a></li>
+			</ol>
+	</center>
+
+</body>
+</html>
